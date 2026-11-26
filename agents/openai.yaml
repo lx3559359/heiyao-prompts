@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑曜提示词skill"
+  short_description: "按作品、角色、底模和权重版本核对黑曜 LoRA 触发词，编写原装、换装和多人提示词"
+  default_prompt: "使用 $heiyao-prompts，按我的角色 LoRA 权重版本编写生图提示词。"
